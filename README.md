@@ -19,7 +19,6 @@ competitive-programming/
 │ ├─ kmp.cpp
 │ └─ ...
 ├─ codeforces/ # Problem solutions from Codeforces
-├─ atcoder/ # Problem solutions from AtCoder
 ├─ cses/ # CSES Problem Set solutions
 └─ practice_log.md # Notes, progress log, and mistakes
 
