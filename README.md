@@ -51,7 +51,7 @@ Deep write-ups and contest analyses are stored in my private Notion workspace.
 ---
 
 ## 📬 Profiles
-- **Codeforces:** [your-handle](https://codeforces.com/profile/sab3oun)
+- **Codeforces:** [sab3oun](https://codeforces.com/profile/sab3oun)
 
 ---
 
