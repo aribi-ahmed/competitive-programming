@@ -9,6 +9,19 @@ I’m currently a student at INSAT and an active member of the ACM club.
 ---
 
 ## 📂 Repository Structure
+competitive-programming/
+├─ template.cpp # My main C++ competitive programming template
+├─ snippets/ # Reusable implementations for common algorithms
+│ ├─ fenwick.cpp
+│ ├─ segtree.cpp
+│ ├─ dijkstra.cpp
+│ ├─ disjoint_set_union.cpp
+│ ├─ kmp.cpp
+│ └─ ...
+├─ codeforces/ # Problem solutions from Codeforces
+├─ atcoder/ # Problem solutions from AtCoder
+├─ cses/ # CSES Problem Set solutions
+└─ practice_log.md # Notes, progress log, and mistakes
 
 ---
 
@@ -39,8 +52,7 @@ Deep write-ups and contest analyses are stored in my private Notion workspace.
 ---
 
 ## 📬 Profiles
-- **Codeforces:** [your-handle](https://codeforces.com/profile/your-handle)
-- **AtCoder:** [your-handle](https://atcoder.jp/users/your-handle)
+- **Codeforces:** [your-handle](https://codeforces.com/profile/sab3oun)
 
 ---
 
