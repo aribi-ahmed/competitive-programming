@@ -7,3 +7,11 @@
 - I had some support from Google Gemini to optimize the code, it used maps for it.
 - I gained +450 and now I'm a **Newbie** YEY! My rank in Tunisia now is 264. Nice, as a first trial.
 ---
+# Start of Progress:
+---
+## Month 1: Review
+**Week 1:**
+- Functions:
+I have worked on some problems to review functions in cpp. All problems are from ICPC Assiut University Community in Codeforces.
+I found the problems [here](https://youkn0wwho.academy/topic-list/functions).
+You will find my solutions at competitive-programming/Month 1/Review/Functions.
