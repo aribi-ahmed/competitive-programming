@@ -13,5 +13,5 @@
 **Week 1:**
 - Functions:
 I have worked on some problems to review functions in cpp. All problems are from ICPC Assiut University Community in Codeforces.
-I found the problems [here](https://youkn0wwho.academy/topic-list/functions).
+I found the problems <a href="https://example.com" target="_blank">here</a>
 You will find my solutions at competitive-programming/Month 1/Review/Functions.
