@@ -15,3 +15,9 @@
 I have worked on some problems to review functions in cpp. All problems are from ICPC Assiut University Community in Codeforces.
 I found the problems <a href="https://youkn0wwho.academy/topic-list/functions" target="_blank">here</a>
 You will find my solutions at competitive-programming/Month 1/Review/Functions.
+**Points to remember in those problems:**
+  * Eratosthenes Sieve
+  * Euclidean Algorithm to find the GCD
+  * logarithmic comparison
+  * converting from DEC to BIN
+  
