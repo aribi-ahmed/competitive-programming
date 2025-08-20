@@ -10,8 +10,8 @@
 # Start of Progress:
 ---
 ## Month 1: Review
-**Week 1:**
-### - Functions:
+### **Week 1:**
+**- Functions:**
 I have worked on some problems to review functions in cpp. All problems are from ICPC Assiut University Community in Codeforces.
 I found the problems <a href="https://youkn0wwho.academy/topic-list/functions" target="_blank">here</a>
 You will find my solutions at competitive-programming/Month 1/Review/Functions.
@@ -20,7 +20,7 @@ You will find my solutions at competitive-programming/Month 1/Review/Functions.
   * Euclidean Algorithm to find the GCD
   * logarithmic comparison
   * converting from DEC to BIN
-### - Arrays:
+**- Arrays:**
 I have worked on some problems to review arrays. Sometimes, I noticed there are some more optimal solutions without using arrays (and I was too lazy to use
 them, so...). I found the problems, as usual, at [youkn0wwho.academy: Arrays](https://youkn0wwho.academy/topic-list/arrays).
 **Points to remember in those problems:**
