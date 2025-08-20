@@ -18,19 +18,19 @@ I’m currently a student at INSAT and an active member of the ACM club.
 
 ## 🛠 Tech & Tools
 - **Language:** C++17 / C++20
-- **Compiler:** g++ with `-O2 -std=c++17`
-- **Editor:** VS Code / CLion
-- **Online Judges:** Codeforces, AtCoder, CSES, SPOJ, USACO
+- **Compiler:** `GNU G++ 17 7.3.0`
+- **Editor:** VS Code
+- **Online Judges:** Codeforces, CodeChef, CSES
 - **References:** 
   - [CP-Algorithms](https://cp-algorithms.com/)
   - [CSES Problem Set](https://cses.fi/problemset/)
   - [USACO Guide](https://usaco.guide/)
-
+  - [DM::OJ](DMOJ.ca)
+  - Some International Olympiads: COCI, CCC, Baltic OI, Egyptian National IOI Team preparation...
 ---
 
 ## 📈 Progress Tracking
 I log every solved problem, mistake, and key insight in [`practice_log.md`](practice_log.md).  
-Deep write-ups and contest analyses are stored in my private Notion workspace.
 
 ---
 
@@ -41,3 +41,5 @@ Deep write-ups and contest analyses are stored in my private Notion workspace.
 
 ## 🤝 Contact
 If you want to collaborate on problem solving or contests, feel free to reach out via GitHub issues or email.
+- Email: aribi.ahmed@outlook.com
+- LinkedIn: [Ahmed Aribi](linkedin.com/in/ahmed-aribi-635758257/)
