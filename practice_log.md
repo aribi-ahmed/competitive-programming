@@ -30,4 +30,9 @@ them, so...). I found the problems, as usual, at [youkn0wwho.academy: Arrays](ht
   * Iterative Fibonacci Sequence
   * Multisets
   * Bubble Sort (I used it but I will be reviewing all sorts soon)
-
+**- Strings:**
+I have solved all the problems on youkn0wwho academy in Strings section. They were kinda easy, so I did not save all codes. I only saved the parts I may go
+back and check later or I think they might help who is gonna read this later. I will work on some problems from Baltic's Olympiad and Croatia's Olympiad: COCI
+they some annoying and nerve-racking problems.
+Links: [youkn0wwho Academy: Strings](https://youkn0wwho.academy/topic-list/strings)
+       [DM::OJ](dmoj.ca): Search for COCI '23 (Croatian Open Competition in Informatics)
