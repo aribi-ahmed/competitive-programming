@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/* Two Pointers Technique. Basic and simple */
 
 bool isSubsequence(const vector<int>& a, const vector<int>& b) {
 
