@@ -28,9 +28,10 @@ I’m currently a student at INSAT and an active member of the ACM club.
   - [DM::OJ](DMOJ.ca)
   - Some International Olympiads: COCI, CCC, Baltic OI, Egyptian National IOI Team preparation...
 ---
-
 ## 📈 Progress Tracking
 I log every solved problem, mistake, and key insight in [`practice_log.md`](practice_log.md).  
+I have also created a Notion course in which I save all the material there.
+You can check this link --> [Competitive Programming Journey](https://yxv.notion.site/Competitive-Programming-Journey-by-Ahmed-Aribi-1e97b49ffa6f800a8384d60acb7745ef?pvs=73)
 
 ---
 
