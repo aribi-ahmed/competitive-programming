@@ -5,7 +5,7 @@ Contains my template, tested algorithm/data structure snippets, and solutions fr
 
 This repo documents my journey preparing for ICPC/IOI-level contests and the **JetBrains Fully-Funded Scholarship** competition at Constructor University.  
 I’m currently a student at **INSAT**. It is my first year, Integrated Preparatory Cycle (Math, Physics and Computer Science), I will try my best to advance academically, as well as competitively.
-The good thing is that there is ACM Club @ INSAT so I can also find people to guide me and support me.
+The good thing is that there is **ACM Club @ INSAT** so I can also find people to guide me and support me.
 
 ---
 
