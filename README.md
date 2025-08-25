@@ -1,10 +1,11 @@
 # Competitive Programming
 
-Personal repository for my competitive programming training in C++.  
-Contains my template, tested algorithm/data structure snippets, and solutions from online judges like Codeforces, AtCoder, CSES, and more.  
+📝 Personal repository for my competitive programming training in C++.  
+Contains my template, tested algorithm/data structure snippets, and solutions from online judges like Codeforces, Hackerrank, CSES, and more.  
 
 This repo documents my journey preparing for ICPC/IOI-level contests and the **JetBrains Fully-Funded Scholarship** competition at Constructor University.  
-I’m currently a student at INSAT and an active member of the ACM club.
+I’m currently a student at **INSAT**. It is my first year, Integrated Preparatory Cycle (Math, Physics and Computer Science), I will try my best to advance academically, as well as competitively.
+The good thing is that there is ACM Club @ INSAT so I can also find people to guide me and support me.
 
 ---
 
@@ -44,3 +45,4 @@ You can check this link --> [Competitive Programming Journey](https://yxv.notion
 If you want to collaborate on problem solving or contests, feel free to reach out via GitHub issues or email.
 - Email: aribi.ahmed@outlook.com
 - LinkedIn: [Ahmed Aribi](linkedin.com/in/ahmed-aribi-635758257/)
+- Phone Number: +216 99 705 504 or +216 50 207 571
